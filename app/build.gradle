@@ -6,7 +6,7 @@ apply plugin:'kotlin-kapt'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.github.midros.istheapp"
+        applicationId "com.github.tusarr10.trackme"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1
