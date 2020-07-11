@@ -6,8 +6,8 @@ The application is installed on the child's device as well as on the parent's de
 # Donate
 The download of the IsTheApp app is 100% free. However, developing and supporting this project is hard work and costs real money. Please help support the development of this project for future features!
 
-<a href="https://www.paypal.com/paypalme2/midrosapps">
-  <img src="https://raw.githubusercontent.com/M1Dr05/IsTheApp/master/art/paypal.png">
+<a href="https://www.paypal.com/paypalme2/xyz">
+  <img src="https://raw.githubusercontent.com/tusarr10/trackme/master/art/paypal.png">
 </a>
 
 # Feacture
