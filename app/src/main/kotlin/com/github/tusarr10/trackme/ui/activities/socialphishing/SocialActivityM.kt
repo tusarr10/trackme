@@ -20,7 +20,7 @@ import kotterknife.bindView
 import javax.inject.Inject
 
 /**
- * Created by luis rafael on 20/03/18.
+ *
  */
 class SocialActivityM : BaseActivity(R.layout.activity_s) {
 

@@ -6,7 +6,7 @@ import com.github.tusarr10.trackme.utils.Consts.PERMISSION_USAGE_STATS
 import com.pawegio.kandroid.isPermissionGranted
 
 /**
- * Created by luis rafael on 20/03/18.
+ *
  */
 object CheckPermission{
 

@@ -8,7 +8,7 @@ import com.github.tusarr10.trackme.utils.Consts.TYPE_SMS
 import javax.inject.Inject
 
 /**
- * Created by luis rafael on 13/03/18.
+ *
  */
 class SmsService : BaseService(), InterfaceServiceSms {
 

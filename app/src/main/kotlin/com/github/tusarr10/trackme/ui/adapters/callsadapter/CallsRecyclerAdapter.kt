@@ -18,7 +18,7 @@ import com.pawegio.kandroid.inflateLayout
 import java.io.File
 
 /**
- * Created by luis rafael on 28/03/18.
+ *
  */
 class CallsRecyclerAdapter(private val query: Query) : BaseAdapter<Calls, CallsViewHolder>(firebaseOptions(query)) {
 

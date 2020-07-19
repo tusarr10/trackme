@@ -25,7 +25,7 @@ import javax.inject.Inject
 
 
 /**
- * Created by luis rafael on 7/03/18.
+ *
  */
 class LoginActivity : BaseActivity(R.layout.activity_login), InterfaceViewLogin, KeyboardUtils.SoftKeyboardToggleListener {
 

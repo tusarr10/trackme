@@ -72,7 +72,7 @@ import javax.inject.Inject
 
 
 /**
- * Created by luis rafael on 7/03/18.
+ *.
  */
 
 class MainParentActivity : BaseActivity(R.layout.activity_main_parent), InterfaceViewMainParent, NavigationView.OnNavigationItemSelectedListener, HomeWatcher.OnHomePressedListener {

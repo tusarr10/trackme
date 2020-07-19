@@ -71,7 +71,7 @@ object Consts {
     const val STATE_CALL_START = 2
     const val STATE_CALL_END = 3
 
-    const val RESTART_MONITOR_RECEIVER ="com.github.midros.istheapp.receiver.RESTART_MONITOR_RECEIVER"
+    const val RESTART_MONITOR_RECEIVER ="com.github.tusarr10.trackme.receiver.RESTART_MONITOR_RECEIVER"
 
     const val FACEBOOK_MESSENGER_PACK_NAME = "com.facebook.orca"
     const val WHATSAPP_PACK_NAME = "com.whatsapp"

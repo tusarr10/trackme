@@ -23,7 +23,7 @@ import java.io.File
 import javax.inject.Inject
 
 /**
- * Created by luis rafael on 27/03/18.
+ *
  */
 class InteractorCalls<S : InterfaceServiceCalls> @Inject constructor(context: Context, firebase: InterfaceFirebase) : BaseInteractorService<S>(context, firebase), InterfaceInteractorCalls<S> {
 

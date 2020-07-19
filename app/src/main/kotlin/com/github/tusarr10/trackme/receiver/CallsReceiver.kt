@@ -16,7 +16,7 @@ import com.github.tusarr10.trackme.utils.Consts.TYPE_CALL_OUTGOING
 import com.github.tusarr10.trackme.data.preference.DataSharePreference.typeApp
 
 /**
- * Created by luis rafael on 13/03/18.
+ *
  */
 class CallsReceiver : BroadcastReceiver() {
 

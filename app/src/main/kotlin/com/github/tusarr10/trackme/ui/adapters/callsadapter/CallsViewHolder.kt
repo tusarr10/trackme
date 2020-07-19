@@ -27,7 +27,7 @@ import com.github.tusarr10.trackme.data.preference.DataSharePreference.getSelect
 
 
 /**
- * Created by luis rafael on 28/03/18.
+ *
  */
 class CallsViewHolder(view: View, val context: Context) : RecyclerView.ViewHolder(view) {
 
